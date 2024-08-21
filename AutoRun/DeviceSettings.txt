@@ -1,0 +1,14 @@
+LANGUAGE
+ANG
+OFFSET X
+0
+OFFSET Y
+0
+OFFSET Z
+0
+STATUS
+DISABLED
+FORM
+none
+Factory Settings updated- 08/08/2012 12:31:54 PM
+------------------------------------

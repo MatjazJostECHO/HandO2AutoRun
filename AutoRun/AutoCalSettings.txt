@@ -1,0 +1,15 @@
+
+STATUS
+GAS
+TIME
+0:3:0:
+ZERO O2
+0
+SPAN O2
+20.83
+Settings updated- 22/11/2021 14:29:51
+ZERO O2 WATER
+0
+SPAN O2 WATER
+8
+------------------------------------

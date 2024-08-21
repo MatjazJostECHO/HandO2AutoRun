@@ -1,0 +1,11 @@
+
+REMOTE
+NONE
+SAVE
+ENABLED
+INTERVAL
+10
+RBUTTON
+SEC
+Settings updated- 27/08/2012 10:06:59 AM
+------------------------------------

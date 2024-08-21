@@ -1,0 +1,47 @@
+HandO2 automatically generated adjusting report
+
+Instrument : HandO2       Model : HO2       Serial No. : 20211272
+
+/
+
+IDENTIFICATION
+Serial number     : SOEM0076000068      
+PHB1.5 number     : SPCB1511018935
+MUX channel       : 00
+PARAMETERS
+Sig.LED curr A/B  : 100/000
+RLED A curr/ampl  : 055/39689
+RLED B curr/ampl  : 042/30135
+Frequency         : 006-00
+Sending interval  : 0001
+Averaging         : 2
+SYSTEM SETTINGS
+System Watchdog   : ON
+Self-test on init : OFF
+APL function      : OFF
+RS232 echo        : ON
+Pulse counter     : OFF
+Oxygen unit       : %a.s.
+CALIBRATION
+Sensor type       : 1
+Sensor constants  : 00801/-8000/00386/02290
+Calibration type  : HUMID
+0%O2 phase 1      : 58.94 at 22.15?C amp 018300
+020.830%O2 phase 2: 28.04 at 22.15?C amp 008500
+Date   (ddmmyy)   : 221121
+Time   (hhmmss)   : 143616
+Pressure (mBar)   : 0977
+FIRMWARE
+Ver:CFWR1511000011: 11/19/08, 11:29:38
+Actel V3 built    : 20/01/05 (MM/DD/YY)
+Reset condition   : SLEEP
+
+The difference in the sensor calibration phases: 30.90
+The difference in the sensor calibration amplitudes: 9731
+Value at the ZERO point is corrected from 0.00 to 0.0  %
+Value at the SPAN point is corrected from 21.24 to 20.83 %
+Sensor meets all conditions for use.
+
+
+Adjustment contractor: ECHO service ADMIN_________________________
+Adjustment date: 22/11/2021 14:36
